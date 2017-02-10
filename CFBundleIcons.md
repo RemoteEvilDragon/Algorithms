@@ -32,3 +32,7 @@ CFBundleAlternateIcons—This key identifies alternate icons for the Home screen
 UINewsstandIcon—This key identifies default icons to use for apps presented from Newsstand. The value for this key is a dictionary whose contents are described in Contents of the UINewsstandIcon Dictionary.
 The CFBundleIcons key is supported in iOS 5.0 and later and in tvOS 9.0 and later. In iOS, you can combine this key with the CFBundleIconFiles and CFBundleIconFile keys but in iOS 5.0 and later, this key takes precedence.
 
+
+
+***目前unity均使用 CFBundleIconFiles 这个key，bandari使用的是 CFBundleIconFiles~ipad 这个key.***
+
