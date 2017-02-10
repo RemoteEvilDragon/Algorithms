@@ -34,5 +34,6 @@ The CFBundleIcons key is supported in iOS 5.0 and later and in tvOS 9.0 and late
 
 
 
-***目前unity均使用 CFBundleIconFiles 这个key，bandari使用的是 CFBundleIconFiles~ipad 这个key.***
+***目前unity均使用 CFBundleIconFiles 这个key，bandari使用的是 CFBundleIconFiles~ipad 这个key，同时也包含CFBundleIconFiles这个key，建议均使用CFBundleIconFiles这个key来进行解析.***
+
 
