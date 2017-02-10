@@ -19,6 +19,8 @@ CFBundleIconFiles~ipad
 
 
 
+Platform-specific modifiers—Use the modifiers ~iphone or ~ipad to specify images targeting a specific size of device.
+
 
 
 CFBundleIcons
